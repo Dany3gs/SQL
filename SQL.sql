@@ -165,3 +165,12 @@ SELECT author, AVG(words) AS avg_words FROM books
     GROUP BY author
     HAVING avg_words > 150000
     ;
+
+
+** Explicación de LEFT JOIN ** sirve para combinar
+datos entre tablas, se puede conbinar sobre una 
+misma tabla**
+SELECT columnas
+FROM tabla_izquierda
+LEFT JOIN tabla_derecha 
+ON tabla_izquierda.columna = tabla_derecha.columna;
