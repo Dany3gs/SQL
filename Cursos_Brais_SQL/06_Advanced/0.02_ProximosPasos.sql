@@ -1,0 +1,4 @@
+-- Leer y estudiar sobre diseño de bases de datos.  
+-- Elegir que motor de bd se necesita para cada proyecto
+-- Concurrencia y transacciones
+-- Seguridad contra inyecciones SQL y Big Data
