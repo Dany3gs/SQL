@@ -1,5 +1,5 @@
 <p align="cener" width="350">      
-<h1 align="center" > Curso de Sql by Brais Moure. </h1>
+<h1 align="center" > Curso de SQl by Brais Moure. </h1>
 </p>
 
 <p align="center" width="200">
